@@ -1,3 +1,3 @@
-export const indexRender = (req, res) => {
+export const indexController = (req, res) => {
   res.render('index')
 }
